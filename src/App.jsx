@@ -2,7 +2,6 @@ import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import Progetti from './pages/Progetti';
 import Contatti from './pages/Contatti';
-import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
