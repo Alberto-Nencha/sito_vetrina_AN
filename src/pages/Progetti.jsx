@@ -19,13 +19,13 @@ function Progetti() {
             title: 'Ai To Do List',
             description: 'Progetto creato tramite intelligenza artificiale',
             image: '../ai_todolist.png',
-            link: 'https://mioportfolio.it'
+            link: 'file:///C:/Users/Alberto/progetti/ai_to_do_list.html'
         },
         {
             title: 'Portfolio Personale',
             description: 'Il mio sito vetrina con React e Vite.',
             image: '../sito_vetrina.png',
-            link: 'https://mioportfolio.it'
+            link: 'https://sito-vetrina-an-pjc.vercel.app/'
         },
 
     ];
