@@ -1,0 +1,47 @@
+.hero {
+    text-align: center;
+    padding: 6rem 2rem;
+    background-color: #f4f6f8;
+    border-radius: 16px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+}
+
+
+.hero h1 {
+    font-size: 3.25rem;
+    color: #1e1e1e;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    line-height: 1.2;
+    letter-spacing: -0.5px;
+}
+
+
+.hero p {
+    font-size: 1.15rem;
+    color: #4b5563;
+    margin-bottom: 2.5rem;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.65;
+}
+
+.cta-button {
+    display: inline-block;
+    text-decoration: none;
+    padding: 0.9rem 2rem;
+    background-color: #2563eb;
+    color: #ffffff;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    transition: background-color 0.25s ease, transform 0.2s ease;
+    box-shadow: 0 4px 10px rgba(37, 99, 235, 0.25);
+}
+
+.cta-button:hover {
+    background-color: #1d4ed8;
+    transform: translateY(-2px);
+}
