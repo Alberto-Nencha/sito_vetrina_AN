@@ -19,7 +19,7 @@ function Progetti() {
             title: 'Ai To Do List',
             description: 'Progetto creato tramite intelligenza artificiale',
             image: '../ai_todolist.png',
-            link: 'file:///C:/Users/Alberto/progetti/ai_to_do_list.html'
+            link: 'https://ai-todolist-react.vercel.app/'
         },
         {
             title: 'Portfolio Personale',
